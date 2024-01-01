@@ -1,0 +1,7 @@
+type: object
+properties:
+  classeList:
+    type: array
+    description: The List of the ClasseDTO.
+    items:
+      $ref: './ClasseDTO.yml'

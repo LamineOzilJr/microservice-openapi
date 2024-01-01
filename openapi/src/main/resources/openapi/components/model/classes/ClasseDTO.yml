@@ -1,0 +1,9 @@
+type: object
+properties:
+  idClasse:
+    type: integer
+    format: int64
+    description: Fonctionnel id of the classe.
+  name:
+    type: string
+    description: Name of the classe.
